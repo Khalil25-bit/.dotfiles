@@ -1,5 +1,5 @@
-linux:
+linux: clean
 	./bin/linux.sh
 
-clean:
+clean: 
 	./bin/cleanup.sh
